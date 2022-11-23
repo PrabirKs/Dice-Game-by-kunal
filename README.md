@@ -1,6 +1,6 @@
 # Dice-Game-by-kunal
 
-- ![Capture](https://user-images.githubusercontent.com/86625941/203543065-8d57e9e5-fe12-4cdf-a8a4-e033a4e7d0d7.PNG)
+![Capture](https://user-images.githubusercontent.com/86625941/203543065-8d57e9e5-fe12-4cdf-a8a4-e033a4e7d0d7.PNG)
 
 - Dice Game is for beginner's and by creating this easy and awesome app you will learn and can master all the basics to intermediate concepts
 - To play ☛ https://dice-game-kunal.netlify.app/
