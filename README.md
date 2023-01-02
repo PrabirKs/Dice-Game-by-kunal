@@ -2,14 +2,14 @@
 
 ![Capture](https://user-images.githubusercontent.com/86625941/203543065-8d57e9e5-fe12-4cdf-a8a4-e033a4e7d0d7.PNG)
 
-- Dice Game is for beginner's and by creating this easy and awesome app you will learn and can master all the basics to intermediate concepts
+- Dice Game is a game for beginners, and by developing it, you can learn and become an expert in all the fundamental and intermediate concepts of javascript.
 - To play ☛ https://dice-game-kunal.netlify.app/
 
 # Index
 
 1. What application does 🤔?
 2. How to run the game 😮?
-3. How to play instruction 🎮️?
+3. How to play (instructions) 🎮️?
 
 # What application does 🤔?
 
@@ -26,7 +26,7 @@
 
 - If you came across this readme file. Yay! then  definately you are facing some issues 😮‍💨 that (How to install or how to run this game)
 - This game can not install or run on your machine
-- This game is hosted online above is the link 
+- This game is hosted online. Above is the link 
 - Steps
     
    - You have to download the .zip file or clone the git repository to your machine
@@ -38,7 +38,7 @@
    - Here your game will start to run successfully
    - The download process is tough but I also know that the person who is here is on the journey of development
     
-#  How to play instruction 🎮️?
+#  How to play (instructions) 🎮️?
 
 - Player 1 will roll the dice, then in current score box the score will add as per the dice number, you can see in the image
 
