@@ -14,13 +14,13 @@
 # What application does 🤔?
 
 - This game is created using HTML, CSS & JAVASCRIPT
-- This is 2 player game were the user's have to play the game on same machine.
+- This is a 2 player game where the user's have to play the game on same machine.
 - The UI is created on modern basis, design are created in such a way that they should convey the info properly.
-- The higlighted part of players are showing that, whose turn is to play now ?
-- After hiting on roll dice button, the dice will roll and pick one number
-- The player can play many times until or unless the dice doesn't roll to 1 as number.
-- Once the player played the turn and can keep the current score to the main score
-- Like this, when one of the player scores 100 1st will win the game
+- The highlighted parts of the players indicate who is playing now.
+- After hiting on roll dice button, the dice will roll and pick one number .
+- The player can play as many times as they want until the dice does not land on 1.
+- Once the player has completed the turn and can add the current score to the main score .
+- Like this, when one of the player scores 100 first, will win the game .
 
 # How to run the game 😮?
 
